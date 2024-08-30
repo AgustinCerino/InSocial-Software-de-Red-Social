@@ -1,0 +1,503 @@
+# depslib dependency file v1.0
+1701287500 source:c:\users\juani\onedrive\escritorio\tpfinal_anda\stfavorito.c
+
+1701289477 source:c:\users\juani\onedrive\escritorio\tpfinal_anda\stcategoria.c
+	<stdlib.h>
+	"stCategoria.h"
+	"stUsuario.h"
+
+1701289471 c:\users\juani\onedrive\escritorio\tpfinal_anda\stcategoria.h
+
+1701289466 c:\users\juani\onedrive\escritorio\tpfinal_anda\stusuario.h
+	"stCategoria.h"
+
+1701289480 source:c:\users\juani\onedrive\escritorio\tpfinal_anda\arbolcontenido.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+
+1701289470 c:\users\juani\onedrive\escritorio\tpfinal_anda\stcontenido.h
+
+1701289473 c:\users\juani\onedrive\escritorio\tpfinal_anda\arbolcontenido.h
+	"stContenido.h"
+	"stUsuario.h"
+
+1701289479 source:c:\users\juani\onedrive\escritorio\tpfinal_anda\listacontenido.c
+	<stdio.h>
+	<stdlib.h>
+	"stContenido.h"
+	"listaContenido.h"
+
+1701289472 c:\users\juani\onedrive\escritorio\tpfinal_anda\listacontenido.h
+	"stContenido.h"
+
+1701289476 source:c:\users\juani\onedrive\escritorio\tpfinal_anda\stcontenido.c
+	<stdlib.h>
+	<stdio.h>
+	"stContenido.h"
+
+1701289889 source:c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\arbolcontenido.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+
+1701289890 c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\stcontenido.h
+
+1701289889 c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\arbolcontenido.h
+	"stContenido.h"
+	"stUsuario.h"
+
+1701289890 c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\stusuario.h
+	"stCategoria.h"
+
+1701289889 c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\stcategoria.h
+
+1701289889 source:c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\listacontenido.c
+	<stdio.h>
+	<stdlib.h>
+	"stContenido.h"
+	"listaContenido.h"
+
+1701289889 c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\listacontenido.h
+	"stContenido.h"
+
+1701289889 source:c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\stcategoria.c
+	<stdlib.h>
+	"stCategoria.h"
+	"stUsuario.h"
+
+1701289889 source:c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\stcontenido.c
+	<stdlib.h>
+	<stdio.h>
+	"stContenido.h"
+
+1701289889 source:c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\stfavorito.c
+
+1701289889 source:c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\stmensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stMensajeria.h"
+	"stUsuario.h"
+	"stContenido.h"
+
+1701301236 c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\stmensajeria.h
+	"stUsuario.h"
+
+1701289890 source:c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\stusuario.c
+	<stdio.h>
+	<stdlib.h>
+	"stUsuario.h"
+	"stCategoria.h"
+
+1701289945 source:c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\adlusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"stFavorito.h"
+	"arbolContenido.h"
+	"listaContenido.h"
+	"stUsuario.h"
+	"stContenido.h"
+	"adlUsuarios.h"
+
+1701289889 c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\stfavorito.h
+
+1701289889 c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\adlusuarios.h
+	"stContenido.h"
+	"stUsuario.h"
+	"listaContenido.h"
+	"stCategoria.h"
+
+1701300548 source:c:\users\agust\onedrive\escritorio\tpfinal_anda-20231129t202919z-001\tpfinal_anda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"listaContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+	"adlUsuarios.h"
+	"stFavorito.h"
+	"stMensajeria.h"
+	<locale.h>
+
+1701318310 source:c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\adlusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"stFavorito.h"
+	"arbolContenido.h"
+	"listaContenido.h"
+	"stUsuario.h"
+	"stContenido.h"
+	"adlUsuarios.h"
+
+1701271888 c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\stfavorito.h
+
+1701271888 c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\arbolcontenido.h
+	"stContenido.h"
+	"stUsuario.h"
+
+1701271890 c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\stcontenido.h
+
+1701271890 c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\stusuario.h
+	"stCategoria.h"
+
+1701271888 c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\stcategoria.h
+
+1701271888 c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\listacontenido.h
+	"stContenido.h"
+
+1701318326 c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\adlusuarios.h
+	"stContenido.h"
+	"stUsuario.h"
+	"listaContenido.h"
+	"stCategoria.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\arbolcontenido.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\listacontenido.c
+	<stdio.h>
+	<stdlib.h>
+	"stContenido.h"
+	"listaContenido.h"
+
+1701318709 source:c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"listaContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+	"adlUsuarios.h"
+	"stFavorito.h"
+	"stMensajeria.h"
+	<locale.h>
+
+1701283236 c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\stmensajeria.h
+	"stUsuario.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\stcategoria.c
+	<stdlib.h>
+	"stCategoria.h"
+	"stUsuario.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\stcontenido.c
+	<stdlib.h>
+	<stdio.h>
+	"stContenido.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\stfavorito.c
+
+1701290186 source:c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\stmensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stMensajeria.h"
+	"stUsuario.h"
+	"stContenido.h"
+
+1701318285 source:c:\users\buhowl\downloads\tpfinal_anda-20231130t014656z-001\tpfinal_anda\stusuario.c
+	<stdio.h>
+	<stdlib.h>
+	"stUsuario.h"
+	"stCategoria.h"
+
+1701318310 source:c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\adlusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"stFavorito.h"
+	"arbolContenido.h"
+	"listaContenido.h"
+	"stUsuario.h"
+	"stContenido.h"
+	"adlUsuarios.h"
+
+1701271888 c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\stfavorito.h
+
+1701366449 c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\arbolcontenido.h
+	"stContenido.h"
+	"stUsuario.h"
+
+1701271890 c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\stcontenido.h
+
+1701365380 c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\stusuario.h
+	"stCategoria.h"
+
+1701271888 c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\stcategoria.h
+
+1701271888 c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\listacontenido.h
+	"stContenido.h"
+
+1701318326 c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\adlusuarios.h
+	"stContenido.h"
+	"stUsuario.h"
+	"listaContenido.h"
+	"stCategoria.h"
+
+1701366449 source:c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\arbolcontenido.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\listacontenido.c
+	<stdio.h>
+	<stdlib.h>
+	"stContenido.h"
+	"listaContenido.h"
+
+1701366894 source:c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"listaContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+	"adlUsuarios.h"
+	"stFavorito.h"
+	"stMensajeria.h"
+	<locale.h>
+
+1701283236 c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\stmensajeria.h
+	"stUsuario.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\stcategoria.c
+	<stdlib.h>
+	"stCategoria.h"
+	"stUsuario.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\stcontenido.c
+	<stdlib.h>
+	<stdio.h>
+	"stContenido.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\stfavorito.c
+
+1701290186 source:c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\stmensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stMensajeria.h"
+	"stUsuario.h"
+	"stContenido.h"
+
+1701318285 source:c:\users\buhowl\downloads\tpfinallabii 3.0\tpfinal_anda\stusuario.c
+	<stdio.h>
+	<stdlib.h>
+	"stUsuario.h"
+	"stCategoria.h"
+
+1701372090 source:c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\adlusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"stFavorito.h"
+	"arbolContenido.h"
+	"listaContenido.h"
+	"stUsuario.h"
+	"stContenido.h"
+	"adlUsuarios.h"
+
+1701369935 c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\stfavorito.h
+
+1701366449 c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\arbolcontenido.h
+	"stContenido.h"
+	"stUsuario.h"
+
+1701271890 c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\stcontenido.h
+
+1701365380 c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\stusuario.h
+	"stCategoria.h"
+
+1701271888 c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\stcategoria.h
+
+1701271888 c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\listacontenido.h
+	"stContenido.h"
+
+1701370282 c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\adlusuarios.h
+	"stContenido.h"
+	"stUsuario.h"
+	"listaContenido.h"
+	"stCategoria.h"
+	"arbolContenido.h"
+	"stFavorito.h"
+
+1701371342 source:c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\arbolcontenido.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\listacontenido.c
+	<stdio.h>
+	<stdlib.h>
+	"stContenido.h"
+	"listaContenido.h"
+
+1701376135 source:c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"listaContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+	"adlUsuarios.h"
+	"stFavorito.h"
+	"stMensajeria.h"
+	<locale.h>
+
+1701283236 c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\stmensajeria.h
+	"stUsuario.h"
+
+1701271888 source:c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\stcategoria.c
+	<stdlib.h>
+	"stCategoria.h"
+	"stUsuario.h"
+
+1701371346 source:c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\stcontenido.c
+	<stdlib.h>
+	<stdio.h>
+	"stContenido.h"
+
+1701369935 source:c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\stfavorito.c
+
+1701290186 source:c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\stmensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stMensajeria.h"
+	"stUsuario.h"
+	"stContenido.h"
+
+1701318285 source:c:\users\buhowl\downloads\tpfinallabii 4.0\tpfinal_anda\stusuario.c
+	<stdio.h>
+	<stdlib.h>
+	"stUsuario.h"
+	"stCategoria.h"
+
+1701561704 source:f:\tpfinallabii 4.0\tpfinal_andamasomenos\adlusuarios.c
+	<stdio.h>
+	<stdlib.h>
+	"stFavorito.h"
+	"arbolContenido.h"
+	"listaContenido.h"
+	"stUsuario.h"
+	"stContenido.h"
+	"adlUsuarios.h"
+
+1701369936 f:\tpfinallabii 4.0\tpfinal_andamasomenos\stfavorito.h
+
+1701366450 f:\tpfinallabii 4.0\tpfinal_andamasomenos\arbolcontenido.h
+	"stContenido.h"
+	"stUsuario.h"
+
+1701271890 f:\tpfinallabii 4.0\tpfinal_andamasomenos\stcontenido.h
+
+1701393022 f:\tpfinallabii 4.0\tpfinal_andamasomenos\stusuario.h
+	"stCategoria.h"
+
+1701271888 f:\tpfinallabii 4.0\tpfinal_andamasomenos\stcategoria.h
+
+1701271888 f:\tpfinallabii 4.0\tpfinal_andamasomenos\listacontenido.h
+	"stContenido.h"
+
+1701548188 f:\tpfinallabii 4.0\tpfinal_andamasomenos\adlusuarios.h
+	"stContenido.h"
+	"stUsuario.h"
+	"listaContenido.h"
+	"stCategoria.h"
+	"arbolContenido.h"
+	"stFavorito.h"
+
+1701485532 source:f:\tpfinallabii 4.0\tpfinal_andamasomenos\arbolcontenido.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+
+1701271888 source:f:\tpfinallabii 4.0\tpfinal_andamasomenos\listacontenido.c
+	<stdio.h>
+	<stdlib.h>
+	"stContenido.h"
+	"listaContenido.h"
+
+1701562644 source:f:\tpfinallabii 4.0\tpfinal_andamasomenos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	"stContenido.h"
+	"listaContenido.h"
+	"arbolContenido.h"
+	"stUsuario.h"
+	"adlUsuarios.h"
+	"stFavorito.h"
+	"stMensajeria.h"
+	<locale.h>
+
+1701562334 f:\tpfinallabii 4.0\tpfinal_andamasomenos\stmensajeria.h
+	"stUsuario.h"
+	"stContenido.h"
+	"listaContenido.h"
+	"stCategoria.h"
+	"arbolContenido.h"
+	"stFavorito.h"
+	"adlUsuarios.h"
+
+1701271888 source:f:\tpfinallabii 4.0\tpfinal_andamasomenos\stcategoria.c
+	<stdlib.h>
+	"stCategoria.h"
+	"stUsuario.h"
+
+1701563174 source:f:\tpfinallabii 4.0\tpfinal_andamasomenos\stcontenido.c
+	<stdlib.h>
+	<stdio.h>
+	"stContenido.h"
+
+1701369936 source:f:\tpfinallabii 4.0\tpfinal_andamasomenos\stfavorito.c
+
+1701562260 source:f:\tpfinallabii 4.0\tpfinal_andamasomenos\stmensajeria.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stMensajeria.h"
+	"stUsuario.h"
+	"stContenido.h"
+
+1701563006 source:f:\tpfinallabii 4.0\tpfinal_andamasomenos\stusuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"stUsuario.h"
+	"stCategoria.h"
+
